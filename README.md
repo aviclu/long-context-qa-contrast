@@ -42,6 +42,6 @@ If you find our work useful, please cite the paper as:
   title={Long Context Question Answering via Supervised Contrastive Learning},
   author={Caciularu, Avi and Dagan, Ido and Goldberger, Jacob and Cohan, Arman},
   journal={The North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL 2022)},
-  year={2021}
+  year={2022}
 }
 ```
